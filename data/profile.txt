@@ -1,0 +1,231 @@
+[wenny]
+Lvl = 6
+HP = 280
+Str = 140
+Def = 80
+Exp = 700
+map_ids = 11 7 8 9 12 10
+loc_map_id = 6
+loc_point.x = 12
+loc_point.y = 30
+skill_ids = 539
+1
+loc_enemy.x = 22 21 23 7 17 10 0 15 5 4
+loc_enemy.y = 32 47 46 30 48 77 0 24 54 29
+loc_medicine.x = 16 2 6 7 5 23 18 13 7 2
+loc_medicine.y = 73 33 27 24 6 45 44 10 49 56
+2
+loc_enemy.x = 9 0 19 15 21 15 0 0 0 15
+loc_enemy.y = 24 0 63 33 63 31 0 0 0 53
+loc_medicine.x = 14 0 12 0 4 7 17 10 0 0
+loc_medicine.y = 57 0 48 0 42 58 30 28 0 0
+3
+loc_enemy.x = 20 16 12 9 7 7 9 14 23 12
+loc_enemy.y = 78 39 38 37 58 51 72 68 17 30
+loc_medicine.x = 0 16 8 18 2 6 8 7 5 2
+loc_medicine.y = 0 34 20 55 75 71 35 64 21 35
+4
+loc_enemy.x = 19 12 11 17 6 4 14 7 13 5
+loc_enemy.y = 28 54 44 50 45 59 14 13 46 49
+loc_medicine.x = 5 23 20 15 8 2 22 21 23 8
+loc_medicine.y = 54 41 4 41 48 78 34 67 42 11
+5
+loc_enemy.x = 18 21 19 13 2 12 20 3 11 17
+loc_enemy.y = 27 17 18 3 55 72 18 76 35 56
+loc_medicine.x = 3 12 6 11 4 11 5 15 16 9
+loc_medicine.y = 75 15 12 76 51 13 65 29 5 46
+6
+loc_enemy.x = 21 15 22 21 11 18 19 16 9 23
+loc_enemy.y = 59 11 70 22 57 54 74 30 65 15
+loc_medicine.x = 2 13 4 22 22 5 17 15 22 16
+loc_medicine.y = 15 4 21 10 7 10 65 31 57 33
+loc_boss.x = 0
+loc_boss.y = 0
+loc_map_id_boss = 6
+is_boss = T
+save_time = 5:6:36
+[irene]
+Lvl = 6
+HP = 216
+Str = 100
+Def = 80
+Exp = 700
+map_ids = 11 7 8 9 12 10
+loc_map_id = 5
+loc_point.x = 9
+loc_point.y = 12
+skill_ids = 283
+1
+loc_enemy.x = 5 7 11 0 9 3 23 3 11 22
+loc_enemy.y = 76 10 43 0 47 8 35 65 8 75
+loc_medicine.x = 14 13 13 15 19 2 11 0 14 8
+loc_medicine.y = 70 15 24 16 22 51 33 0 7 41
+2
+loc_enemy.x = 15 11 21 3 23 14 22 23 18 7
+loc_enemy.y = 40 9 73 11 52 37 22 41 63 43
+loc_medicine.x = 15 19 14 2 4 21 8 9 4 13
+loc_medicine.y = 52 71 75 47 57 62 7 64 23 16
+3
+loc_enemy.x = 18 15 3 5 21 5 3 15 19 15
+loc_enemy.y = 18 41 39 27 49 12 17 54 54 6
+loc_medicine.x = 10 15 10 17 15 2 2 14 17 11
+loc_medicine.y = 13 47 51 77 16 46 41 70 73 68
+4
+loc_enemy.x = 10 3 23 0 12 23 0 19 23 0
+loc_enemy.y = 70 11 36 0 67 9 0 35 18 0
+loc_medicine.x = 0 0 13 0 16 9 0 7 13 20
+loc_medicine.y = 0 0 42 0 44 64 0 68 61 59
+5
+loc_enemy.x = 7 19 15 0 9 6 12 3 3 13
+loc_enemy.y = 52 29 78 0 66 63 75 61 68 31
+loc_medicine.x = 22 17 17 22 0 6 7 14 4 2
+loc_medicine.y = 65 63 64 75 0 32 12 29 64 66
+6
+loc_enemy.x = 21 4 5 2 18 8 17 23 4 5
+loc_enemy.y = 10 7 67 50 78 67 50 31 12 6
+loc_medicine.x = 20 17 8 13 12 5 14 19 17 10
+loc_medicine.y = 69 65 6 32 63 78 79 9 6 31
+loc_boss.x = 0
+loc_boss.y = 0
+loc_map_id_boss = 5
+is_boss = T
+save_time = 4:59:40
+[Ireeeene]
+Lvl = 0
+HP = -1
+Str = 0
+Def = 0
+Exp = 0
+map_ids = 11 7 8 9 12 10
+loc_map_id = 3
+loc_point.x = 23
+loc_point.y = 61
+skill_ids = 0
+1
+loc_enemy.x = 22 12 2 15 7 2 22 23 7 19
+loc_enemy.y = 54 30 7 39 63 28 49 61 65 19
+loc_medicine.x = 7 10 7 20 5 8 7 3 19 10
+loc_medicine.y = 49 77 27 27 19 48 35 14 7 30
+2
+loc_enemy.x = 3 18 16 21 12 11 18 12 16 8
+loc_enemy.y = 25 9 11 62 25 15 69 64 43 7
+loc_medicine.x = 23 21 21 23 5 13 2 18 15 18
+loc_medicine.y = 44 66 64 59 78 49 39 18 15 20
+3
+loc_enemy.x = 16 17 16 13 10 6 3 23 22 22
+loc_enemy.y = 48 22 12 20 28 63 18 37 8 6
+loc_medicine.x = 13 12 4 13 17 15 9 22 8 13
+loc_medicine.y = 16 27 46 48 19 55 37 21 14 51
+4
+loc_enemy.x = 8 2 22 23 8 20 16 17 23 20
+loc_enemy.y = 69 47 48 62 73 22 18 53 66 19
+loc_medicine.x = 5 9 8 3 20 11 22 14 2 17
+loc_medicine.y = 70 63 46 43 18 75 70 54 7 56
+5
+loc_enemy.x = 21 4 2 15 21 22 17 9 19 4
+loc_enemy.y = 48 56 61 68 74 21 75 42 30 33
+loc_medicine.x = 18 13 15 23 18 22 13 14 4 6
+loc_medicine.y = 78 66 29 67 74 25 34 69 37 54
+6
+loc_enemy.x = 2 8 23 4 18 22 16 3 5 23
+loc_enemy.y = 41 68 37 9 41 40 56 10 8 15
+loc_medicine.x = 7 20 10 23 14 8 6 7 14 4
+loc_medicine.y = 57 47 31 11 43 62 10 66 29 73
+loc_boss.x = 10
+loc_boss.y = 57
+loc_map_id_boss = 2
+is_boss = F
+save_time = -1:-1:-1
+[x]
+Lvl = 0
+HP = -1
+Str = 0
+Def = 0
+Exp = 0
+map_ids = 11 7 8 9 12 10
+loc_map_id = 5
+loc_point.x = 12
+loc_point.y = 72
+skill_ids = 0
+1
+loc_enemy.x = 4 14 3 18 13 12 14 21 10 3
+loc_enemy.y = 18 39 79 49 66 13 50 23 9 78
+loc_medicine.x = 7 21 10 20 6 13 20 4 11 18
+loc_medicine.y = 31 35 71 47 19 52 24 8 9 20
+2
+loc_enemy.x = 23 23 23 23 23 2 4 9 15 2
+loc_enemy.y = 61 40 19 11 30 22 56 10 24 13
+loc_medicine.x = 2 20 12 23 8 14 19 22 23 23
+loc_medicine.y = 67 76 5 24 57 69 64 23 52 69
+3
+loc_enemy.x = 15 18 16 9 19 2 4 2 20 11
+loc_enemy.y = 72 78 44 7 66 76 61 77 44 78
+loc_medicine.x = 11 15 12 23 4 23 12 17 15 7
+loc_medicine.y = 13 71 36 64 47 40 29 15 29 21
+4
+loc_enemy.x = 16 14 17 21 11 4 3 11 22 20
+loc_enemy.y = 18 50 16 52 60 11 77 53 41 59
+loc_medicine.x = 6 15 21 4 12 19 4 16 4 20
+loc_medicine.y = 79 75 7 47 66 58 58 79 12 10
+5
+loc_enemy.x = 21 14 18 12 16 12 19 19 9 14
+loc_enemy.y = 49 71 71 13 76 16 79 9 66 75
+loc_medicine.x = 3 3 10 22 19 23 14 13 21 16
+loc_medicine.y = 61 51 14 21 52 76 76 67 48 62
+6
+loc_enemy.x = 2 12 13 6 14 15 10 23 8 12
+loc_enemy.y = 13 4 5 40 30 58 76 30 70 12
+loc_medicine.x = 11 7 10 22 19 4 22 5 22 6
+loc_medicine.y = 33 39 44 12 75 55 18 9 20 10
+loc_boss.x = 23
+loc_boss.y = 6
+loc_map_id_boss = 3
+is_boss = F
+save_time = -1:-1:-1
+[ken]
+Lvl = 0
+HP = -1
+Str = 0
+Def = 0
+Exp = 0
+map_ids = 11 7 8 9 12 10
+loc_map_id = 4
+loc_point.x = 3
+loc_point.y = 42
+skill_ids = 0
+1
+loc_enemy.x = 16 10 18 18 11 21 3 2 20 13
+loc_enemy.y = 18 49 22 39 69 43 9 47 68 44
+loc_medicine.x = 6 14 5 4 11 4 7 20 22 13
+loc_medicine.y = 61 14 53 51 64 66 71 70 33 14
+2
+loc_enemy.x = 3 5 2 17 5 13 18 20 21 21
+loc_enemy.y = 7 7 26 10 21 4 8 37 36 10
+loc_medicine.x = 14 6 11 4 12 11 2 6 4 18
+loc_medicine.y = 11 45 8 76 73 57 13 61 53 62
+3
+loc_enemy.x = 2 14 13 20 14 18 11 14 6 10
+loc_enemy.y = 54 76 3 60 40 72 12 12 30 58
+loc_medicine.x = 8 8 12 20 10 4 4 11 23 20
+loc_medicine.y = 12 40 31 48 12 50 65 50 62 78
+4
+loc_enemy.x = 14 21 3 2 21 15 3 17 3 16
+loc_enemy.y = 12 62 12 68 34 65 68 35 44 43
+loc_medicine.x = 13 5 8 21 22 15 18 12 19 20
+loc_medicine.y = 75 49 75 35 35 45 36 11 58 2
+5
+loc_enemy.x = 14 3 22 3 15 14 22 20 7 6
+loc_enemy.y = 15 35 12 10 58 46 77 57 43 73
+loc_medicine.x = 13 3 15 2 14 2 16 10 6 8
+loc_medicine.y = 46 42 13 74 4 70 50 32 60 12
+6
+loc_enemy.x = 10 14 22 12 10 16 9 11 2 6
+loc_enemy.y = 57 2 11 69 67 52 6 8 17 11
+loc_medicine.x = 22 14 23 6 6 4 23 18 13 10
+loc_medicine.y = 60 61 57 29 62 22 8 33 75 77
+loc_boss.x = 3
+loc_boss.y = 67
+loc_map_id_boss = 1
+is_boss = F
+save_time = -1:-1:-1
+@
