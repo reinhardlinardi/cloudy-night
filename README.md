@@ -1,55 +1,30 @@
-_________________________________________________
+# Cloudy Night
 
-C l o u d y  N i g h t
-_________________________________________________
+Cloudy Night is an interactive single player command line game written in C.
 
-README.md
+## System Requirements
 
-Thank you for playing Cloudy Night.
+- Linux or OS X operating system
+- [ncurses](https://www.gnu.org/software/ncurses/) library
 
-This document contains useful information
+## How to Play
 
-_________________________________________________
+1. Download or clone this repository to your desired path.
+2. Open terminal, set current working directory to that path by using `cd <path>`.
+3. Build the source code using `make`.
+4. Run the game with the command `bin/main`.
 
-CONTENTS
-___________
+## Developers
+
+- [Wenny Yustalim](https://github.com/wennyyustalim)
+- [Kanisius Kenneth H.](https://github.com/kanisiuskenneth)
+- [Reinhard Benjamin L.](https://github.com/reinhardlinardi)
+- [Irene Edria Devina](https://github.com/ireneedria)
+- [Verena Severina](https://github.com/verenaseverina)
+- [Daniel T.G.](https://github.com/nieltg)
 	
-	1) SYSTEM REQUIREMENTS
-	2) RUN THE PROGRAM
-	3) CONTACT INFORMATION
-
-_________________________________________________
-
-1) SYSTEM REQUIREMENTS
-____________________________
-
-Cloudy Night uses and requires Linux based OS
-with ncurses installed
-
-_________________________________________________
-
-2) RUN THE PROGRAM
-_______________________
-
- 	> Open Terminal
-	> Get into the directory/repository
-	> Type make
-	> Type bin/main
-	> Watch out, you're being targetted by our hackers
-	> Goodluck
-_________________________________________________
-
-3) CONTACT INFORMATION
-___________________________
-
-	Wenny Yustalim : 13515002@std.stei.itb.ac.id
-	Kanisius Kenneth : 13515008@std.stei.itb.ac.id
-	Reinhard Benjamin : 13515011@std.stei.itb.ac.id
-	Irene Edria Devina: 13515038@std.stei.itb.ac.id
-	Verena Severina : 13515047@std.stei.itb.ac.id
-	Daniel Pintara : 13515071@std.stei.itb.ac.id
+## Special Thanks
 	
+We would like to give our special thanks to [GitLab](https://about.gitlab.com/) for hosting our source code before we moved it here.
 
-	
-Special thanks to gitlab.com
-
+There was nothing wrong with [GitLab](https://about.gitlab.com/) though. But, since [GitHub](https://github.com) is the most popular website for hosting open source projects, we moved the source code.
