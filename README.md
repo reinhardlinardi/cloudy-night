@@ -14,6 +14,23 @@ Cloudy Night is an interactive single player command line game written in C.
 3. Build the source code using `make`.
 4. Run the game with the command `bin/main`.
 
+	
+![Main Menu](https://raw.githubusercontent.com/reinhardlinardi/cloudy-night/master/docs/main_menu.png)
+
+![New Game](https://raw.githubusercontent.com/reinhardlinardi/cloudy-night/master/docs/new_game.png)
+
+![Create User](https://raw.githubusercontent.com/reinhardlinardi/cloudy-night/master/docs/user_created.png)
+
+![Map](https://raw.githubusercontent.com/reinhardlinardi/cloudy-night/master/docs/map.png)
+
+![Battle](https://raw.githubusercontent.com/reinhardlinardi/cloudy-night/master/docs/battle_1.png)
+
+![Battle](https://raw.githubusercontent.com/reinhardlinardi/cloudy-night/master/docs/battle_2.png)
+
+![Battle](https://raw.githubusercontent.com/reinhardlinardi/cloudy-night/master/docs/battle_3.png)
+
+![Save Game](https://raw.githubusercontent.com/reinhardlinardi/cloudy-night/master/docs/save_game.png)
+
 ## Developers
 
 - [Wenny Yustalim](https://github.com/wennyyustalim)
